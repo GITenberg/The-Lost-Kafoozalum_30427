@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34604
     wikipedia: http://en.wikipedia.org/wiki/Pauline_Ashwell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30427#The-Lost-Kafoozalum
 gutenberg_bookshelf:
 - Science Fiction by Women
 - Science Fiction
